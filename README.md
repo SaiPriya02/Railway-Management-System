@@ -14,5 +14,7 @@ The following process will take place on the portal for a potential customer:
 • When the user wants to cancel a booking, just by clicking the Cancel Booking button they can cancel their reservation by entering the reservation number. The record is then taken off the table.
 
 Here's what you need to run this successfully - 
+
 Python 2.7 - run the python file.
+
 XAMPP - this is the software to create the database the python file will connect to.
